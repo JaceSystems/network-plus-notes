@@ -1,13 +1,3 @@
-Yes, every repo should have a README. It's the first thing anyone sees when they land on the repo page — without one, it looks abandoned even if you're actively committing to it. GitHub literally displays the README below the file list on the main page.
-
-Here's a solid starter README for network-plus-notes. Create it in the root of the repo:
-bash
-
-nano README.md
-
-Paste this in and edit to fit:
-markdown
-
 # Network+ Study Notes
 
 Personal study notes for the CompTIA Network+ (N10-009) certification.
